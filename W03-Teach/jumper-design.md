@@ -17,6 +17,12 @@ Jumper is played according to the following rules.
 
 - `Director()`
 
+Description
+
+- `...()`
+
+...
+
 ## Assets
 
 ### Wordlist
