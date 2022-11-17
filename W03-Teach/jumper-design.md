@@ -23,7 +23,22 @@ Jumper is played according to the following rules.
 
 **Description**
 
-*The purpose of the game, Jumper, is to guess letters for every turn . Similar to the game, Hangman, if the chosen letter is not in the secret word, the parachute will lose a line. The player continues to guess until either the puzzle is solved or the jumper falls to his gruesome death.*
+* Director
+The director class administers the gameplay and delegates the turns the player receives. The director inititates the console to display out to the player. The director also initiates the jumper, where differnt phases of the jumper will be displayed via code logic inside the jumper class and a display housed in a parachute class. The director also distrubutes a word from a program that generates a random word from a list.
+
+* Console
+The console gets text or numerical input and displays them out to the terminal. The three main functions, are to read input from the user, read each letter of the chosen word, and displays the text.
+
+* Jumper
+The jumper class chooses which phase of the jumper themselves gets displayed.
+If the player inputs a wrong answer, they lose that round and the next phase of the jumper initiates with them losing a string to their parachute.
+
+* Word
+Houses a list of words that will be randomly selected.
+
+* Parachute
+Houses our programs icons that will display the different phases of the jumper.
+
 
 ## Assets
 
