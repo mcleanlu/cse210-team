@@ -23,7 +23,7 @@ Jumper is played according to the following rules.
 
 **Description**
 
-*The purpose of the game, Jumper, is to guess letters, for every turn . Similar to the game, Hangman, if the chosen letter is not in the secret word, the parachute will lose a line . The player continues to guess until either the puzzle is solved or the jumper falls to his gruesome death.*
+*The purpose of the game, Jumper, is to guess letters for every turn . Similar to the game, Hangman, if the chosen letter is not in the secret word, the parachute will lose a line. The player continues to guess until either the puzzle is solved or the jumper falls to his gruesome death.*
 
 ## Assets
 
