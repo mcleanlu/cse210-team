@@ -5,9 +5,11 @@ LETTERS = "abcdefghijklmnopqrstuvwxyz"
 
 class Console:
     def output(self, msg):
+        """Output a message to the console"""
         print(msg)
 
     def output_word(self, word):
+        """Output the secret word, replacing each letter that has not yet been guessed with _"""
         letters = [
             letter if letter in word.guessed_letters else "_"
             for letter in word.secret_word

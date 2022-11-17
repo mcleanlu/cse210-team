@@ -69,4 +69,5 @@ PARACHUTE_ICONS = {
 
 
 def output_parachute(strings_left):
+    """Prints the prototype icon matching the number of strings left"""
     print(PARACHUTE_ICONS[strings_left])
