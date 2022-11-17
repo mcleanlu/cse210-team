@@ -16,6 +16,9 @@ Jumper is played according to the following rules.
 ## Classes
 
 - `Director()`
+- `Jumper()`
+- `Word()`
+- `Console()`
 
 Description
 
