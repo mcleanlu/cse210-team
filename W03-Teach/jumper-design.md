@@ -19,12 +19,11 @@ Jumper is played according to the following rules.
 - `Jumper()`
 - `Word()`
 - `Console()`
+- `Parachute()`
 
-Description
+**Description**
 
-- `...()`
-
-...
+* * The purpose of the game, Jumper, is to guess letters, for every turn . Similar to the game, Hangman, If the chosen letter is not in the secret word, the parachute will loses a line . The player continues to guess until either the puzzle is solved or the jumper falls to his gruesome death. * *
 
 ## Assets
 
